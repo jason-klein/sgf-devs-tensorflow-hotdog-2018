@@ -9,3 +9,4 @@ android.iml
 .gradle/
 android/assets/*
 android/tflite/app/build/
+.DS_Store
